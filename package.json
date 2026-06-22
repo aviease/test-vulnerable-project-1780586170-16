@@ -85,7 +85,7 @@
     "sshpk": "1.13.1",
     "uuid": "3.3.2",
     "node-uuid": "1.4.7",
-    "lodash.template": "4.4.0",
+    "lodash.template": "4.18.1",
     "lodash.set": "4.3.2",
     "lodash.pick": "4.4.0",
     "jsonpointer": "4.1.0",
