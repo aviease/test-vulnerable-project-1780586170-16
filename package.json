@@ -119,7 +119,7 @@
     "stringstream": "0.0.5",
     "chownr": "1.0.1",
     "fresh": "0.3.0",
-    "useragent": "2.1.12",
+    "useragent": "2.3.0",
     "marsdb": "0.6.11",
     "validator": "9.4.0",
     "node-tar": "2.2.1",
